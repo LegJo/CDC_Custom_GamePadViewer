@@ -15,10 +15,6 @@
     background-image: url("https://raw.githubusercontent.com/LegJo/CDC_Custom_GamePadViewer/refs/heads/main/svg/bumper.svg");
 }
 
-/* .ds4.white .touchpad.pressed { */
-    /* background-image: url("https://raw.githubusercontent.com/LegJo/CDC_Custom_GamePadViewer/refs/heads/main/svg/touchpad.svg"); */
-/* } */
-
 .ds4.white .back, .ds4 .start {
     background-image: url("https://raw.githubusercontent.com/LegJo/CDC_Custom_GamePadViewer/refs/heads/main/svg/start.svg");
 }
