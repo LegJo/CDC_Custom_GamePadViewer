@@ -1,37 +1,37 @@
-/*BEGIN PS4 White Controller Styling*/
+//*BEGIN PS4 White Controller Styling*//
 .controller.ds4.white {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\Manette_CdC_PS4.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//Manette_CdC_PS4.svg");
 }
 
 .ds4.white.disconnected {
-    background: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\disconnected.svg");
+    background: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//disconnected.svg");
 }
 
 .ds4.white .trigger {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\triggers.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//triggers.svg");
 }
 
 .ds4.white .bumper {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\bumper.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//bumper.svg");
 }
 
-/* .ds4.white .touchpad.pressed { */
-    /* background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\touchpad.svg"); */
-/* } */
+//* .ds4.white .touchpad.pressed { *//
+    //* background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//touchpad.svg"); *//
+//* } *//
 
 .ds4.white .back, .ds4 .start {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\start.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//start.svg");
 }
 
 .ds4.white .button {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\face.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//face.svg");
 }
 
 .ds4.white .stick {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\sticks.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//sticks.svg");
 }
 
 .ds4.white .face {
-    background-image: url("D:\\Docs\\Zz - OTHER\\CDC_GAMEPAD\\final_svg\\dpad.svg");
+    background-image: url("https:////raw.githubusercontent.com//LegJo//CDC_Custom_GamePadViewer//refs//heads//main//svg//dpad.svg");
 }
-/*END PS4 White Controller Styling*/
+//*END PS4 White Controller Styling*//
